@@ -1,0 +1,12 @@
+{
+  "name": "genpark-cart-abandonment-urgency-push-copy-generator-skill",
+  "version": "1.0.0",
+  "description": "Autonomous e-commerce recovery push copy synthesizer tuning urgency decay and consumer behavioral archetypes",
+  "author": "GenPark AI Engineering",
+  "license": "MIT",
+  "keywords": ["cart-recovery", "urgency-push", "push-notification", "sms-marketing", "copy-generator", "agent-skills"],
+  "mcp": {
+    "supported": true,
+    "entrypoint": "mcp_server.py"
+  }
+}
